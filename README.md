@@ -1,5 +1,5 @@
 # ¡Hola! Soy Daniela Tiscareño 👋
-### Junior Data Analyst | Ex-Arquitecta enfocada en la Integridad de Datos
+### Junior Data Analyst | Arquitecta enfocada en la Integridad de Datos
 
 Me especializo en transformar datos crudos en estructuras claras y visuales para la toma de decisiones estratégicas. Mi formación en Arquitectura me ha dado una base sólida en **gestión de proyectos**, **estandarización de procesos** y una **atención al detalle** milimétrica, habilidades que ahora aplico en el análisis de datos.
 
