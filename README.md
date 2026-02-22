@@ -1,16 +1,42 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
+### Junior Data Analyst | Ex-Arquitecta enfocada en la Integridad de Datos
 
-<!--
-**dantis76/dantis76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me especializo en transformar datos crudos en estructuras claras y visuales para la toma de decisiones estratégicas. Mi formación en Arquitectura me ha dado una base sólida en **gestión de proyectos**, **estandarización de procesos** y una **atención al detalle** milimétrica, habilidades que ahora aplico en el análisis de datos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Proyectos Destacados (TripleTen Bootcamp)
+
+📂 **[Análisis de Embudo y Retención - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project)**
+> Optimización del proceso de compra identificando puntos de fuga de usuarios.
+
+📂 **[Desempeño Financiero - Adventure Works](https://github.com/dantis76/AdventureWorks-Financial)**
+> Análisis de rentabilidad y seguimiento de KPIs globales mediante dashboards dinámicos.
+
+📂 **[Movilidad Urbana y Productividad - LATAM](https://github.com/dantis76/LATAM-Analysis)**
+> Procesamiento de grandes volúmenes de datos para medir eficiencia operativa.
+
+📂 **[Ventas y Eficiencia Operativa - Walmart](https://github.com/dantis76/Walmart-Sales)**
+> Análisis de tendencias de consumo y gestión de inventarios.
+
+📂 **[Limpieza de Datos - VentaExpress](https://github.com/dantis76/VentaExpress-Cleaning)**
+> Estandarización de bases de datos críticas para asegurar reportes 100% confiables.
+
+---
+
+### 📫 Conectemos
+- **LinkedIn:** www.linkedin.com/in/
+danielatiscareno-data
+- **Correo:** danielatiscarenol@gmail.com
+
+
