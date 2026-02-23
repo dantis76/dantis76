@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="banner.png" alt="Daniela Portafolio Banner" width="100%">
+</p>
+
+<h1 align="center">¡Hola! Soy Daniela 👋</h1>
+
+<p align="center">
+  <b>Analista de Datos apasionada por transformar datos complejos en decisiones estratégicas.</b>
+</p>
+
+---
+
+
 # ¡Hola! Soy Daniela Tiscareño 👋
 ### Junior Data Analyst | De la Arquitectura al Análisis de Datos
 
