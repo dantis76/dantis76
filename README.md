@@ -2,15 +2,36 @@
   <img src="canva data analyst.jpg" width="100%" alt="Daniela Data Analyst Banner">
 </p>
 
+<h1 align="center">¡Hola! Soy Daniela 👋</h1>
+
 <p align="center">
   <b>Analista de Datos apasionada por transformar datos complejos en decisiones estratégicas.</b>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
 ---
 
+### 📂 Mis Proyectos de Análisis de Datos
 
-# ¡Hola! Soy Daniela Tiscareño 👋
-### Junior Data Analyst | De la Arquitectura al Análisis de Datos
+| Proyecto | Descripción | Herramientas |
+| :--- | :--- | :--- |
+| 🛠️ **[Limpieza de Datos - VentaExpress](https://github.com/dantis76/VentaExpress-Cleaning)** | Estandarización de bases de datos y control de calidad (QA). | Google Sheets |
+| 📊 **[Análisis de Ventas - Walmart](https://github.com/dantis76/Walmart-Sales)** | Dashboard de KPIs de ventas y eficiencia operativa. | Google Sheets |
+| 💰 **[Desempeño Financiero - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)** | Análisis de ROI y rentabilidad global con JOINs complejos. | SQL |
+| 📦 **[Análisis de Embudo - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project.)** | Retención de usuarios por cohortes y optimización de conversión. | SQL |
+| 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Impacto de la congestión vial en el PIB de ciudades. | Python |
+
+---
+
+### 📫 ¡Conectemos!
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
+- **Email:** tu-correo@ejemplo.com
 
 Me especializo en transformar datos crudos en estructuras claras y visuales para la toma de decisiones estratégicas. Mi formación en Arquitectura me ha dado una base sólida en **gestión de proyectos**, **estandarización de procesos** y una **atención al detalle** milimétrica, habilidades que ahora aplico en el análisis de datos.
 
