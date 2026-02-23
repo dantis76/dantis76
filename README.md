@@ -23,7 +23,7 @@ Me especializo en transformar datos crudos en estructuras claras y visuales para
 | 🛠️ **[Limpieza de Datos - VentaExpress](https://github.com/dantis76/VentaExpress-Cleaning)** | Estandarización de bases de datos y control de calidad (QA). | Google Sheets |
 | 📊 **[Análisis de Ventas - Walmart](https://github.com/dantis76/Walmart-Sales)** | Dashboard de KPIs de ventas y eficiencia operativa. | Google Sheets |
 | 💰 **[Desempeño Financiero - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)** | Análisis de ROI y rentabilidad global con JOINs complejos. | SQL |
-📦 **[Análisis de Embudo - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project)** | Retención de usuarios por cohortes y optimización de conversión. | SQL |
+| 📦 **[Análisis de Embudo - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project)** | Retención de usuarios por cohortes y optimización de conversión. | SQL |
 | 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Impacto de la congestión vial en el PIB de ciudades. | Python |
 
 ---
