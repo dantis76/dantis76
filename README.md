@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Daniela Portafolio Banner" width="100%">
+  <img src="canva data analyst.jpg" width="100%" alt="Daniela Data Analyst Banner">
 </p>
 
 <h1 align="center">¡Hola! Soy Daniela 👋</h1>
