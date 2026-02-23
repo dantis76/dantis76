@@ -23,9 +23,6 @@ Me especializo en transformar datos crudos en estructuras claras y visuales para
 📂 **[Desempeño Financiero - Adventure Works](https://github.com/dantis76/AdventureWorks-Financial)**
 > Análisis de rentabilidad y seguimiento de KPIs globales mediante dashboards dinámicos.
 
-📂 **[Movilidad Urbana y Productividad - LATAM](https://github.com/dantis76/LATAM-Analysis)**
-> Procesamiento de grandes volúmenes de datos para medir eficiencia operativa.
-
 📂 **[Ventas y Eficiencia Operativa - Walmart](https://github.com/dantis76/Walmart-Sales)**
 > Análisis de tendencias de consumo y gestión de inventarios.
 
