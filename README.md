@@ -20,7 +20,7 @@ Me especializo en transformar datos crudos en estructuras claras y visuales para
 📂 **[Análisis de Embudo y Retención - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project)**
 > Optimización del proceso de compra identificando puntos de fuga de usuarios.
 
-📂 **[Desempeño Financiero - Adventure Works](https://github.com/dantis76/AdventureWorks-Financial)**
+📂 **[Desempeño Financiero - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)**
 > Análisis de rentabilidad y seguimiento de KPIs globales mediante dashboards dinámicos.
 
 📂 **[Ventas y Eficiencia Operativa - Walmart](https://github.com/dantis76/Walmart-Sales)**
