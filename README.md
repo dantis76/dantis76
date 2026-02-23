@@ -2,7 +2,7 @@
   <img src="DATA ANALYST BANNER.jpg" width="100%" alt="Daniela Tiscareño - Data Analyst">
 </p>
 
-<h1 align="center">Daniela Tiscareño 👋</h1>
+<h1 align="center">Daniela Tiscareño </h1>
 
 <p align="center">
   <b>Data Analyst | Architect</b><br>
