@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="canva data analyst.jpg" width="100%" alt="Daniela Tiscareño - Data Analyst & Architect">
-</p>
+
 
 <h1 align="center">Daniela Tiscareño</h1>
 <p align="center">
