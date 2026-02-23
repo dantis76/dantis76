@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="canva data analyst.jpg" width="100%" alt="Daniela Tiscareño Banner">
+  <img src="canva data analyst.jpg" width="100%" alt="Daniela Tiscareño - Data Analyst & Architect">
 </p>
 
 <h1 align="center">Daniela Tiscareño</h1>
 <p align="center">
   <b>Data Analyst | Architect</b><br>
-  <i>Diseñando estructuras lógicas para transformar datos complejos en decisiones estratégicas.</i>
+  <i>Estructurando datos con la precisión de un plano arquitectónico para construir decisiones estratégicas.</i>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 🏗️ Estructura de Proyectos (Portfolio)
 
-| Proyecto | Enfoque Estratégico | Stack |
+| Proyecto | Enfoque Estratégico | Herramientas |
 | :--- | :--- | :--- |
 | 🛠️ **[Limpieza de Datos - VentaExpress](https://github.com/dantis76/VentaExpress-Cleaning)** | QA y normalización de estructuras de datos masivas. | Google Sheets |
 | 📊 **[Análisis de Ventas - Walmart](https://github.com/dantis76/Walmart-Sales)** | Dashboard de KPIs y visualización de flujos comerciales. | Google Sheets |
@@ -29,10 +29,10 @@
 ---
 
 ### 🖋️ Perfil Profesional
-Mi formación en **Arquitectura** me otorgó una visión estructural única: entiendo que para que un análisis sea sólido, sus cimientos (los datos) deben estar perfectamente normalizados. No solo proceso información, diseño los puentes entre los datos crudos y la claridad visual necesaria para la toma de decisiones estratégicas.
+Mi formación en **Arquitectura** me otorgó una visión estructural única: entiendo que para que un análisis sea sólido, sus cimientos (los datos) deben estar perfectamente normalizados. No solo proceso información, diseño los puentes entre los datos crudos y la claridad visual necesaria para la toma de decisiones.
 
 ### ✉️ Conectemos y Construyamos
-- **LinkedIn:** [linkedin.com/in/danielatiscareno-data](https://www.linkedin.com/in/danielatiscareno-data)
+- **LinkedIn:** [danielatiscareno-data](https://www.linkedin.com/in/danielatiscareno-data)
 - **Correo:** [danielatiscarenol@gmail.com](mailto:danielatiscarenol@gmail.com)
 
 ---
