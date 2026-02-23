@@ -2,8 +2,6 @@
   <img src="canva data analyst.jpg" width="100%" alt="Daniela Data Analyst Banner">
 </p>
 
-<h1 align="center">¡Hola! Soy Daniela 👋</h1>
-
 <p align="center">
   <b>Analista de Datos apasionada por transformar datos complejos en decisiones estratégicas.</b>
 </p>
