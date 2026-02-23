@@ -2,67 +2,40 @@
   <img src="canva data analyst.jpg" width="100%" alt="Daniela Data Analyst Banner">
 </p>
 
-<h1 align="center">¡Hola! Soy Daniela 👋</h1>
-
+<h1 align="center">Daniela Tiscareño</h1>
 <p align="center">
-  <b>Analista de Datos apasionada por transformar datos complejos en decisiones estratégicas.</b>
+  <b>Arquitecta & Analista de Datos</b><br>
+  <i>Estructurando datos con la precisión de un plano arquitectónico.</i>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
 
-### 📂 Mis Proyectos de Análisis de Datos
+### 🏗️ Estructura de Proyectos
 
-| Proyecto | Descripción | Herramientas |
+| Proyecto | Enfoque Estratégico | Stack |
 | :--- | :--- | :--- |
-| 🛠️ **[Limpieza de Datos - VentaExpress](https://github.com/dantis76/VentaExpress-Cleaning)** | Estandarización de bases de datos y control de calidad (QA). | Google Sheets |
-| 📊 **[Análisis de Ventas - Walmart](https://github.com/dantis76/Walmart-Sales)** | Dashboard de KPIs de ventas y eficiencia operativa. | Google Sheets |
-| 💰 **[Desempeño Financiero - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)** | Análisis de ROI y rentabilidad global con JOINs complejos. | SQL |
-| 📦 **[Análisis de Embudo - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project.)** | Retención de usuarios por cohortes y optimización de conversión. | SQL |
-| 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Impacto de la congestión vial en el PIB de ciudades. | Python |
+| 🛠️ **[Limpieza de Datos - VentaExpress](https://github.com/dantis76/VentaExpress-Cleaning)** | QA y normalización de estructuras de datos. | Sheets |
+| 📊 **[Análisis de Ventas - Walmart](https://github.com/dantis76/Walmart-Sales)** | Optimización de KPIs y visualización de flujo. | Sheets |
+| 💰 **[Finanzas - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)** | Análisis de rentabilidad mediante lógica relacional. | SQL |
+| 📦 **[Conversión - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project.)** | Análisis de embudo y comportamiento de usuario. | SQL |
+| 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Modelado de impacto económico y social. | Python |
 
 ---
 
-### 📫 ¡Conectemos!
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
-- **Email:** tu-correo@ejemplo.com
+### 🖋️ Perfil Profesional
+Vengo del mundo de la **Arquitectura**, lo que me otorgó una visión espacial y estructural única para abordar los datos. No solo analizo números; diseño los cimientos para que la información sea sólida, escalable y visualmente comprensible. Mi objetivo es construir puentes entre los datos crudos y la toma de decisiones inteligente.
 
-Me especializo en transformar datos crudos en estructuras claras y visuales para la toma de decisiones estratégicas. Mi formación en Arquitectura me ha dado una base sólida en **gestión de proyectos**, **estandarización de procesos** y una **atención al detalle** milimétrica, habilidades que ahora aplico en el análisis de datos.
+### ✉️ Conectemos y Construyamos
+- **LinkedIn:** [danielatiscareno-data](https://www.linkedin.com/in/danielatiscareno-data)
+- **Email:** [danielatiscarenol@gmail.com](mailto:danielatiscarenol@gmail.com)
 
 ---
-
-### 🛠️ Tecnologías y Herramientas
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dantis76&show_icons=true&theme=nord" alt="Estadísticas" />
 </p>
-
----
-
-### 🚀 Proyectos Destacados (TripleTen Bootcamp)
-### 📂 Mis Proyectos de Análisis de Datos
-
-| Proyecto | Descripción | Herramientas |
-| :--- | :--- | :--- |
-| 🛠️ **[Limpieza de Datos - VentaExpress](https://github.com/dantis76/VentaExpress-Cleaning)** | Estandarización de bases de datos y control de calidad (QA). | Google Sheets |
-| 📊 **[Análisis de Ventas - Walmart](https://github.com/dantis76/Walmart-Sales)** | Dashboard de KPIs de ventas y eficiencia operativa. | Google Sheets |
-| 💰 **[Desempeño Financiero - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)** | Análisis de ROI y rentabilidad global con JOINs complejos. | SQL |
-| 📦 **[Análisis de Embudo - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project.)** | Retención de usuarios por cohortes y optimización de conversión. | SQL |
-| 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Impacto de la congestión vial en el PIB de ciudades. | Python |
-
----
-
-### 📫 Conectemos
-- **LinkedIn:** www.linkedin.com/in/
-danielatiscareno-data
-- **Correo:** danielatiscarenol@gmail.com
-
-
