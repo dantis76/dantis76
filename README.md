@@ -2,10 +2,10 @@
   <img src="canva data analyst.jpg" width="100%" alt="Daniela Data Analyst Banner">
 </p>
 
-<h1 align="center">Daniela Tiscareño</h1>
+<h1 align="center">Daniela Tiscareño 👋</h1>
 <p align="center">
   <b>Arquitecta & Analista de Datos</b><br>
-  <i>Estructurando datos con la precisión de un plano arquitectónico.</i>
+  <i>Diseñando estructuras lógicas para transformar datos complejos en decisiones estratégicas.</i>
 </p>
 
 <p align="center">
@@ -16,26 +16,26 @@
 
 ---
 
-### 🏗️ Estructura de Proyectos
+### 🏗️ Estructura de Proyectos (Portfolio)
 
 | Proyecto | Enfoque Estratégico | Stack |
 | :--- | :--- | :--- |
-| 🛠️ **[Limpieza de Datos - VentaExpress](https://github.com/dantis76/VentaExpress-Cleaning)** | QA y normalización de estructuras de datos. | Sheets |
-| 📊 **[Análisis de Ventas - Walmart](https://github.com/dantis76/Walmart-Sales)** | Optimización de KPIs y visualización de flujo. | Sheets |
-| 💰 **[Finanzas - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)** | Análisis de rentabilidad mediante lógica relacional. | SQL |
-| 📦 **[Conversión - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project.)** | Análisis de embudo y comportamiento de usuario. | SQL |
-| 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Modelado de impacto económico y social. | Python |
+| 🛠️ **[Limpieza de Datos - VentaExpress](https://github.com/dantis76/VentaExpress-Cleaning)** | QA y normalización de estructuras de datos masivas. | Sheets |
+| 📊 **[Análisis de Ventas - Walmart](https://github.com/dantis76/Walmart-Sales)** | Optimización de KPIs y visualización de flujos comerciales. | Sheets |
+| 💰 **[Finanzas - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)** | Análisis de rentabilidad mediante arquitectura relacional. | SQL |
+| 📦 **[Conversión - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project.)** | Análisis de embudo y comportamiento predictivo de usuario. | SQL |
+| 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Modelado de impacto económico y social en urbes. | Python |
 
 ---
 
 ### 🖋️ Perfil Profesional
-Vengo del mundo de la **Arquitectura**, lo que me otorgó una visión espacial y estructural única para abordar los datos. No solo analizo números; diseño los cimientos para que la información sea sólida, escalable y visualmente comprensible. Mi objetivo es construir puentes entre los datos crudos y la toma de decisiones inteligente.
+Mi formación en **Arquitectura** me otorgó una visión estructural única: entiendo que para que un análisis sea sólido, sus cimientos (los datos) deben estar perfectamente normalizados. No solo proceso información, diseño los puentes entre los datos crudos y la claridad visual necesaria para la toma de decisiones.
 
 ### ✉️ Conectemos y Construyamos
 - **LinkedIn:** [danielatiscareno-data](https://www.linkedin.com/in/danielatiscareno-data)
-- **Email:** [danielatiscarenol@gmail.com](mailto:danielatiscarenol@gmail.com)
+- **Correo:** [danielatiscarenol@gmail.com](mailto:danielatiscarenol@gmail.com)
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dantis76&show_icons=true&theme=nord" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dantis76&show_icons=true&theme=nord&hide_border=true" alt="Estadísticas de Daniela" />
 </p>
