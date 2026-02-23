@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="canva data analyst.jpg" width="100%" alt="Banner de Daniela">
-</p>
-
 # ¡Hola! Soy Daniela Tiscareño 👋
 ### Junior Data Analyst | De la Arquitectura al Análisis de Datos
 
