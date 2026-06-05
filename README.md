@@ -27,7 +27,7 @@
 | 💰 **[Finanzas - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)** | Análisis de rentabilidad mediante arquitectura relacional. | SQL |
 | 📦 **[Conversión - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project.)** | Análisis de embudo y comportamiento predictivo de usuario. | SQL |
 | 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Modelado de impacto económico y social en urbes. | Python |
-
+| 🎯 **[Eficiencia y Delivery - Rappi](https://github.com/dantis76/rappi-mexico-analytics)** | Optimización de tiempos logísticos, retención y automatización de pipeline ETL. | Python / Power BI |
 ---
 
 ### 🖋️ Perfil Profesional
