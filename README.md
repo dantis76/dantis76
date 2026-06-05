@@ -29,8 +29,19 @@
 | 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Modelado de impacto económico y social en urbes. | Python |
 | 🎯 **[Eficiencia y Delivery - Rappi](https://github.com/dantis76/Diagn-stico-estrat-gico-integral-para-RappiPlus)** | Optimización de tiempos logísticos, retención y automatización de pipeline ETL. | Python / Power BI |
 
-### 🖋️ Perfil Profesional
-Mi formación en **Arquitectura** me otorgó una visión estructural única: entiendo que para que un análisis sea sólido, sus cimientos (los datos) deben estar perfectamente normalizados. No solo proceso información, diseño los puentes entre los datos crudos y la claridad visual necesaria para la toma de decisiones estratégicas.
+
+## 👤 Perfil Profesional
+
+Mi formación en **Arquitectura** me otorgó una visión estructural única: entiendo que para que un análisis sea sólido, sus cimientos (los datos) deben estar perfectamente normalizados. 
+
+No solo proceso información; **diseño los puentes entre los datos crudos y la claridad visual** necesaria para la toma de decisiones estratégicas en sectores clave como salud, retail, marketing y logística.
+
+---
+
+## ✉️ Conectemos y Construyamos
+
+* **LinkedIn:** [linkedin.com/in/danielatiscareno-data](https://linkedin.com/in/danielatiscareno-data)
+* **Correo:** [danielatiscarenol@gmail.com](mailto:danielatiscarenol@gmail.com)
 
 ### ✉️ Conectemos y Construyamos
 - **LinkedIn:** [linkedin.com/in/danielatiscareno-data](https://www.linkedin.com/in/danielatiscareno-data)
