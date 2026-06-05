@@ -27,8 +27,7 @@
 | 💰 **[Finanzas - Adventure Works](https://github.com/dantis76/AdventureWorks-Financials)** | Análisis de rentabilidad mediante arquitectura relacional. | SQL |
 | 📦 **[Conversión - MercadoLibre](https://github.com/dantis76/MercadoLibre-Project.)** | Análisis de embudo y comportamiento predictivo de usuario. | SQL |
 | 🚗 **[Movilidad Urbana - LATAM](https://github.com/dantis76/Urban-Mobility-LATAM)** | Modelado de impacto económico y social en urbes. | Python |
-| 🎯 **[Eficiencia y Delivery - Rappi](https://github.com/dantis76/rappi-mexico-analytics)** | Optimización de tiempos logísticos, retención y automatización de pipeline ETL. | Python / SQL / Power BI |
----
+| 🎯 **[Eficiencia y Delivery - Rappi](https://github.com/dantis76/Diagn-stico-estrat-gico-integral-para-RappiPlus)** | Optimización de tiempos logísticos, retención y automatización de pipeline ETL. | Python / Power BI |
 
 ### 🖋️ Perfil Profesional
 Mi formación en **Arquitectura** me otorgó una visión estructural única: entiendo que para que un análisis sea sólido, sus cimientos (los datos) deben estar perfectamente normalizados. No solo proceso información, diseño los puentes entre los datos crudos y la claridad visual necesaria para la toma de decisiones estratégicas.
