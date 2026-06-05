@@ -34,7 +34,7 @@
 
 Mi formación en **Arquitectura** me otorgó una visión estructural única: entiendo que para que un análisis sea sólido, sus cimientos (los datos) deben estar perfectamente normalizados. 
 
-No solo proceso información; **diseño los puentes entre los datos crudos y la claridad visual** necesaria para la toma de decisiones estratégicas en sectores clave como salud, retail, marketing y logística.
+No solo proceso información; **diseño los puentes entre los datos crudos y la claridad visual** necesaria para la toma de decisiones estratégicas en sectores clave como salud, finanzas, retail, marketing y logística.
 
 ---
 
