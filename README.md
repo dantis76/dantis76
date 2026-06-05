@@ -1,12 +1,17 @@
 <div align="center">
 
-# Daniela Tiscareño
-### Data Analyst | Architect
+<!-- Banner de fondo integrado -->
+<img src="https://raw.githubusercontent.com/dantis76/dantis76/main/banner%20github.jpg" width="100%" alt="Banner de Red Neuronal de Daniela" style="display: block; max-width: 100%; height: auto; padding-bottom: 20px;">
 
-*Transformando datos complejos en estructuras claras y decisiones estratégicas.*
+<!-- Sección de texto centrada -->
+<h1 style="border-bottom: none; color: white;">Daniela Tiscareño</h1>
+<h3 style="border-bottom: none; color: white;">Data Analyst | Architect</h3>
+
+*<span style="color: white;">Transformando datos complejos en estructuras claras y decisiones estratégicas.</span>*
 
 ---
 
+<!-- Insignias de tecnología alineadas -->
 [![SQL](https://img.shields.io/badge/Postgres/SQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/dantis76)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dantis76)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/dantis76)
