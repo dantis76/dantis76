@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner de fondo integrado -->
-<img src="https://raw.githubusercontent.com/dantis76/dantis76/main/banner%20github.jpg" width="100%" alt="Banner de Red Neuronal de Daniela" style="display: block; max-width: 100%; height: auto; padding-bottom: 20px;">
+<img src="https://raw.githubusercontent.com/dantis76/dantis76/main/DATA%20ANALYST%20BANNER.jpg" width="100%" alt="Banner de Daniela" style="display: block; max-width: 100%; height: auto; padding-bottom: 20px;">
 
 <!-- Sección de texto centrada -->
 <h1 style="border-bottom: none; color: white;">Daniela Tiscareño</h1>
