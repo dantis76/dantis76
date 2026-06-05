@@ -1,21 +1,17 @@
-<p align="center">
-  <img src="DATA ANALYST BANNER.jpg" width="100%" alt="Daniela Tiscareño - Data Analyst">
-</p>
+<div align="center">
 
-<h1 align="center">Daniela Tiscareño </h1>
+# Daniela Tiscareño
+### Data Analyst | Architect
 
-<p align="center">
-  <b>Data Analyst | Architect</b><br>
-  <i>Transformando datos complejos en estructuras claras y decisiones estratégicas.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+*Transformando datos complejos en estructuras claras y decisiones estratégicas.*
 
 ---
+
+[![SQL](https://img.shields.io/badge/Postgres/SQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/dantis76)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dantis76)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/dantis76)
+
+</div>
 
 ### 🏗️ Estructura de Proyectos (Portfolio)
 
